@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Weston Notes
+I had to git rebase the entire project due to some self inflected wounds and practicing targeting the branches. Just wanted to notate that as it will shows approx 1500 lines of commits. 
 # Task Manager 7
 
 ## CRUD in Rails
